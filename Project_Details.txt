@@ -1,0 +1,28 @@
+Project Title: EcoHub AI - Intelligent Carbon Footprint Prediction and Sustainability Recommendation Platform
+
+Team Members:
+1. Minakshi Patel
+2. Nija Mavani
+3. Kovid Bhujbal
+4. Darsh Parekh
+5. Rutu Patel
+
+Project Overview:
+Climate change, rising carbon emissions, and unsustainable resource consumption have become some of the world's most critical challenges. 
+EcoHub AI is an intelligent sustainability platform that leverages Artificial Intelligence, Machine Learning, and Data Analytics to help 
+individuals understand, monitor, and reduce their environmental impact.
+
+The platform analyzes real-world lifestyle factors including transportation habits, electricity consumption, water usage, dietary patterns,
+waste generation, plastic consumption, renewable energy adoption, internet usage, and household characteristics to accurately predict an 
+individual's carbon footprint. Beyond prediction, EcoHub AI evaluates sustainability behavior through a Green Score, identifies user
+segments using Clustering, classifies emission levels through Machine Learning, and generates AI-powered personalized recommendations to 
+encourage environmentally responsible decisions.
+
+The project integrates Machine Learning, Deep Learning, Explainable AI, Interactive Dashboards, and Generative AI to transform raw
+environmental data into actionable sustainability insights. By combining intelligent prediction with personalized guidance, EcoHub AI 
+empowers users to adopt greener lifestyles while contributing to global climate action.
+
+Expected Outcome:
+Develop an intelligent AI-driven sustainability platform capable of predicting carbon footprint, evaluating environmental behavior,
+generating personalized eco-friendly recommendations, and enabling data-driven decision-making for individuals and organizations to 
+promote sustainable living and reduce carbon emissions.
